@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data into SQL</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+
+</resources>
